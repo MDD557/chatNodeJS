@@ -126,6 +126,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-1index.js
-1index.html
+server/1index.js
+client/1index.html
 .env
